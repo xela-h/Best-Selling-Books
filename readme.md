@@ -1,4 +1,6 @@
-EDA and Visualization on Best Selling Books
+# EDA and Visualization on Best Selling Books
+
+![Screenshot](books.png)
 
 Using the best-selling books dataset to answer the following questions:
 
